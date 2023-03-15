@@ -1,0 +1,14 @@
+{
+  "name": "2-introduccion-a-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^13.2.4"
+  }
+}
